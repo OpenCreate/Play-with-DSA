@@ -33,3 +33,23 @@
 | 2-8 常见的时间复杂度 |[无代码] |[无代码]|
 | 2-9 测试算法性能 |[C++](02-LinearSearch/cpp/09-Test-Algorithm-Performance/) |[无代码]|
 | 2-10 本章小结 |[无代码] |[无代码]|
+| **第三章 选择排序法** | [章节C++源码](02-LinearSearch/cpp)|[章节JAVA源码]
+| 3-1 最简单的排序算法：选择排序法|[无代码]|[无代码]|
+| 3-2 实现选择排序法|[C++](03-SelectionSort/cpp/02-Implement-SelectionSort/)|[无代码]|
+| 3-3 使用带约束的泛型|[C++](03-SelectionSort/cpp/02-Implement-SelectionSort/)|[无代码]|
+| 3-4 使用Comparable接口|[无代码]|[无代码]|
+| 3-5 选择排序法复杂度分析|[C++](03-SelectionSort/cpp/05-SelectionSort-Complexity-Analysis/)|[无代码]|
+| 3-6 一个作业：换个角度实现选择排序法|[C++](03-SelectionSort/cpp/06-Another-Way-Implement-SelectionSort/)|[无代码]|
+| **第四章 插入排序法** | [章节C++源码](04-InsertionSort/cpp)|[章节JAVA源码]
+| 4-1 插入排序法|[无代码]|[无代码]|
+| 4-2 实现插入排序法|[C++](04-InsertionSort/cpp/02-Implement-InsertionSort/)|[无代码]|
+| 4-3 插入排序法的一个小优化|[C++](04-InsertionSort/cpp/03-Optimized-InsertionSort/)|[无代码]|
+| 4-4 插入排序法的特性|[C++](04-InsertionSort/cpp/04-InsertionSort-Features/)|[无代码]|
+| 4-5 一个作业：换个角度实现插入排序法|[无代码]|[无代码]|
+| 4-6 换个角度实现插入排序法，作业分析|[无代码]|[无代码]|
+| 4-7 本章小结|[无代码]|[无代码]|
+
+
+
+
+
