@@ -8,7 +8,7 @@ class ArrayGenerator {
 };
 
 int *ArrayGenerator::generateOrderedArray(int n) {
-  int *data_ = new int[n];
-  for (int i = 0; i < n; ++i) data_[i] = i;
-  return data_;
+  int *data = new int[n];
+  for (int i = 0; i < n; ++i) data[i] = i;
+  return data;
 }
