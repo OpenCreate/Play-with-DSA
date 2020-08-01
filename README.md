@@ -16,7 +16,7 @@
 
 ## 课程源码目录 
 
-| **第1章 欢迎大家来到算法与数据结构的世界** | C++[无代码] | JAVA[无代码]
+| **第一章 欢迎大家来到算法与数据结构的世界** | C++[无代码] | JAVA[无代码]
 | :--- | :---: | :---: |
 | 1-1 欢迎大家来到算法与数据结构的新世界 | [无代码] |[无代码]|
 | 1-2 学习算法和数据结构到底有没有用？ | [无代码] |[无代码]|
@@ -36,7 +36,7 @@
 | **第三章 选择排序法** | [章节C++源码](02-LinearSearch/cpp)|[章节JAVA源码]
 | 3-1 最简单的排序算法：选择排序法|[无代码]|[无代码]|
 | 3-2 实现选择排序法|[C++](03-SelectionSort/cpp/02-Implement-SelectionSort/)|[无代码]|
-| 3-3 使用带约束的泛型|[C++](03-SelectionSort/cpp/02-Implement-SelectionSort/)|[无代码]|
+| 3-3 使用带约束的泛型|[C++](03-SelectionSort/cpp/../../02-LinearSearch/cpp/04-Generic-Implementation-LinearSearch/)|[无代码]|
 | 3-4 使用Comparable接口|[无代码]|[无代码]|
 | 3-5 选择排序法复杂度分析|[C++](03-SelectionSort/cpp/05-SelectionSort-Complexity-Analysis/)|[无代码]|
 | 3-6 一个作业：换个角度实现选择排序法|[C++](03-SelectionSort/cpp/06-Another-Way-Implement-SelectionSort/)|[无代码]|
@@ -45,9 +45,20 @@
 | 4-2 实现插入排序法|[C++](04-InsertionSort/cpp/02-Implement-InsertionSort/)|[无代码]|
 | 4-3 插入排序法的一个小优化|[C++](04-InsertionSort/cpp/03-Optimized-InsertionSort/)|[无代码]|
 | 4-4 插入排序法的特性|[C++](04-InsertionSort/cpp/04-InsertionSort-Features/)|[无代码]|
-| 4-5 一个作业：换个角度实现插入排序法|[无代码]|[无代码]|
+| 4-5 一个作业：换个角度实现插入排序法|[C++](04-InsertionSort/cpp/../../03-SelectionSort/cpp/06-Another-Way-Implement-SelectionSort/)|[无代码]|
 | 4-6 换个角度实现插入排序法，作业分析|[无代码]|[无代码]|
 | 4-7 本章小结|[无代码]|[无代码]|
+| **第五章 数据结构基础：不要小瞧数组** | [章节C++源码](05-Array/cpp)|[章节JAVA源码]
+| 5-1 为什么要学习数据结构|[无代码]|[无代码]|
+| 5-2 使用Java中的数组|[无代码]|[无代码]|
+| 5-3 二次封装属于我们自己的数组|[C++](05-Array/cpp/03-Our-Own-Array/)|[无代码]|
+| 5-4 向数组中添加元素|[C++](05-Array/cpp/04-Add-Elements/)|[无代码]|
+| 5-5 数组查询元素和修改元素|[C++](05-Array/cpp/05-Find-Modify-Elements/)|[无代码]|
+| 5-6 数组中的包含、搜索和删除|[C++](05-Array/cpp/06-Contains-Find-Remove-Elements/)|[无代码]|
+| 5-7 泛型类|[C++](05-Array/cpp/07-Generic-Array/)|[无代码]|
+| 5-8 动态数组|[C++](05-Array/cpp/08-Dynamic-Array/)|[无代码]|
+| 5-9 简单的复杂度分析|[无代码]|[无代码]|
+| 5-10 均摊复杂度和防止复杂度震荡|[无代码]|[无代码]|
 
 
 
