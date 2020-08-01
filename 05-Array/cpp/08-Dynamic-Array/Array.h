@@ -108,9 +108,10 @@ class Array {
   void resize(int newCapacity) {
     T* newData = new T[newCapacity];
     for (int i = 0; i < size_; ++i) newData[i] = data_[i];
+    delete[] data_;//释放旧内存
     data_ = newData;
     capacity_ = newCapacity;
-    delete[] data_;
+    
   }
 
   T* data_;
