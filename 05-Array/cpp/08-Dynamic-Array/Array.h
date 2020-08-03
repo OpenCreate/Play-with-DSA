@@ -66,8 +66,8 @@ class Array {
     return -1;
   }
 
-  //删除index位置元素，返回删除元素
-  int remove(int index) {
+  //删除index位置元素，返回删除元T素
+  T remove(int index) {
     if (index < 0 || index >= size_)
       throw std::invalid_argument("Set failed. Index is illegal");
     T ret = data_[index];
@@ -78,9 +78,9 @@ class Array {
     return ret;
   }
 
-  int removeFirst() { return remove(0); }
+  T removeFirst() { return remove(0); }
 
-  int removeLast() { return remove(size_ - 1); }
+  T removeLast() { return remove(size_ - 1); }
 
   void removeElement(T e) {
     int index = find(e);
