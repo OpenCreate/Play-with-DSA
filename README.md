@@ -73,6 +73,20 @@
 | 6-11 作业解析：没有size成员变量的循环队列|[无代码]|[无代码]|
 | 6-12 作业：双端队列|[无代码]|[无代码]|
 | 6-13 作业：实现双端队列|[无代码]|[无代码]|
+| **第六章x 习题补充：栈和队列其他习题** | [章节C++源码]
+| 6-1x 作业：用栈实现队列和用队列实现栈|[无代码]|[无代码]|
+| 6-2x 作业解析：用队列实现栈|[无代码]|[无代码]|
+| 6-3x 作业解析：用栈实现队列|[无代码]|[无代码]|
+| 6-4x 更多栈和队列问题|[无代码]|[无代码]|
+| **第七章 最基础的动态数据结构：链表** | [章节C++源码](07-Linked-List/cpp)
+| 7-1 什么是链表|[C++](07-Linkded-List/cpp/01-Linked-List-Basis/)|[无代码]|
+| 7-2 在链表中添加元素|[C++](07-Linkded-List/cpp/02-Add-Elements-in-LinkedList/)|[无代码]|
+| 7-3 使用列表的虚拟的头节点|[C++](07-Linkded-List/cpp/03-DummyHead-in-LinkedList/)|[无代码]|
+| 7-4 链表的遍历，查询和修改|[C++](07-Linkded-List/cpp/04-Query-and-Update-in-LinkedList/)|[无代码]|
+| 7-5 从链表中删除元素|[C++]((07-Linkded-List/cpp/05-Remove-Element-in-LinkedList/))|[无代码]|
+| 7-6 使用链表实现栈|[C++]((07-Linkded-List/cpp/06-Implement-Stack-in-LinkedList/))|[无代码]|
+| 7-7 带有尾指针的链表：使用链表实现队列|[C++](07-Linkded-List/cpp/07-Implement-Queue-in-LinkedList/)|[无代码]|
+| 7-8 链表的性能问题|[C++](07-Linkded-List/cpp/08-LinkedList-Performance/)|[无代码]|
 
 
 
