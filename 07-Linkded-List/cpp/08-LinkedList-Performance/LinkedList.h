@@ -93,7 +93,7 @@ class LinkedList {
 
   T removeLast() { return remove(size_ - 1); }
 
-  T removeElelment(T e) {
+  void removeElelment(T e) {
     Node *prev = dummyHead_;
     while (prev->next != nullptr) {
       if (prev->next->e == e) break;

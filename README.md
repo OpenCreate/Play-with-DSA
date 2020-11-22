@@ -16,7 +16,7 @@
 
 ## 课程源码目录 
 
-| **第一章 欢迎大家来到算法与数据结构的世界** | C++[无代码] | JAVA[无代码]
+| **第一章 欢迎大家来到算法与数据结构的世界** | C++[无代码] | JAVA[无代码]|
 | :--- | :---: | :---: |
 | 1-1 欢迎大家来到算法与数据结构的新世界 | [无代码] |[无代码]|
 | 1-2 学习算法和数据结构到底有没有用？ | [无代码] |[无代码]|
@@ -33,14 +33,14 @@
 | 2-8 常见的时间复杂度 |[无代码] |[无代码]|
 | 2-9 测试算法性能 |[C++](02-LinearSearch/cpp/09-Test-Algorithm-Performance/) |[无代码]|
 | 2-10 本章小结 |[无代码] |[无代码]|
-| **第三章 选择排序法** | [章节C++源码](02-LinearSearch/cpp)|[章节JAVA源码]
+| **第三章 选择排序法** | [章节C++源码](02-LinearSearch/cpp)|[章节JAVA源码]|
 | 3-1 最简单的排序算法：选择排序法|[无代码]|[无代码]|
 | 3-2 实现选择排序法|[C++](03-SelectionSort/cpp/02-Implement-SelectionSort/)|[无代码]|
 | 3-3 使用带约束的泛型|[C++](03-SelectionSort/cpp/../../02-LinearSearch/cpp/04-Generic-Implementation-LinearSearch/)|[无代码]|
 | 3-4 使用Comparable接口|[无代码]|[无代码]|
 | 3-5 选择排序法复杂度分析|[C++](03-SelectionSort/cpp/05-SelectionSort-Complexity-Analysis/)|[无代码]|
 | 3-6 一个作业：换个角度实现选择排序法|[C++](03-SelectionSort/cpp/06-Another-Way-Implement-SelectionSort/)|[无代码]|
-| **第四章 插入排序法** | [章节C++源码](04-InsertionSort/cpp)|[章节JAVA源码]
+| **第四章 插入排序法** | [章节C++源码](04-InsertionSort/cpp)|[章节JAVA源码]|
 | 4-1 插入排序法|[无代码]|[无代码]|
 | 4-2 实现插入排序法|[C++](04-InsertionSort/cpp/02-Implement-InsertionSort/)|[无代码]|
 | 4-3 插入排序法的一个小优化|[C++](04-InsertionSort/cpp/03-Optimized-InsertionSort/)|[无代码]|
@@ -48,7 +48,7 @@
 | 4-5 一个作业：换个角度实现插入排序法|[C++](04-InsertionSort/cpp/../../03-SelectionSort/cpp/06-Another-Way-Implement-SelectionSort/)|[无代码]|
 | 4-6 换个角度实现插入排序法，作业分析|[无代码]|[无代码]|
 | 4-7 本章小结|[无代码]|[无代码]|
-| **第五章 数据结构基础：不要小瞧数组** | [章节C++源码](05-Array/cpp)|[章节JAVA源码]
+| **第五章 数据结构基础：不要小瞧数组** | [章节C++源码](05-Array/cpp)|[章节JAVA源码]|
 | 5-1 为什么要学习数据结构|[无代码]|[无代码]|
 | 5-2 使用Java中的数组|[无代码]|[无代码]|
 | 5-3 二次封装属于我们自己的数组|[C++](05-Array/cpp/03-Our-Own-Array/)|[无代码]|
@@ -59,7 +59,7 @@
 | 5-8 动态数组|[C++](05-Array/cpp/08-Dynamic-Array/)|[无代码]|
 | 5-9 简单的复杂度分析|[无代码]|[无代码]|
 | 5-10 均摊复杂度和防止复杂度震荡|[无代码]|[无代码]|
-| **第六章 数据结构基础：栈和队列** | [章节C++源码](06-Stack-and-Queue/cpp)|[章节JAVA源码]
+| **第六章 数据结构基础：栈和队列** | [章节C++源码](06-Stack-and-Queue/cpp)|[章节JAVA源码]|
 | 6-1 栈和栈的应用：撤销操作和系统栈|[无代码]|[无代码]|
 | 6-2 栈的基本实现|[C++](06-Stack-and-Queue/cpp/02-Array-Stack/)|[无代码]|
 | 6-3 栈的另一个应用：括号匹配|[C++](06-Stack-and-Queue/cpp/03-A-Stack-Problem-in-Leetcode/)|[无代码]|
@@ -73,12 +73,12 @@
 | 6-11 作业解析：没有size成员变量的循环队列|[无代码]|[无代码]|
 | 6-12 作业：双端队列|[无代码]|[无代码]|
 | 6-13 作业：实现双端队列|[无代码]|[无代码]|
-| **第六章x 习题补充：栈和队列其他习题** | [章节C++源码]
+| **第六章x 习题补充：栈和队列其他习题** | [章节C++源码]|
 | 6-1x 作业：用栈实现队列和用队列实现栈|[无代码]|[无代码]|
 | 6-2x 作业解析：用队列实现栈|[无代码]|[无代码]|
 | 6-3x 作业解析：用栈实现队列|[无代码]|[无代码]|
 | 6-4x 更多栈和队列问题|[无代码]|[无代码]|
-| **第七章 最基础的动态数据结构：链表** | [章节C++源码](07-Linked-List/cpp)
+| **第七章 最基础的动态数据结构：链表** | [章节C++源码](07-Linkded-List/cpp/)|
 | 7-1 什么是链表|[C++](07-Linkded-List/cpp/01-Linked-List-Basis/)|[无代码]|
 | 7-2 在链表中添加元素|[C++](07-Linkded-List/cpp/02-Add-Elements-in-LinkedList/)|[无代码]|
 | 7-3 使用列表的虚拟的头节点|[C++](07-Linkded-List/cpp/03-DummyHead-in-LinkedList/)|[无代码]|
@@ -87,6 +87,23 @@
 | 7-6 使用链表实现栈|[C++]((07-Linkded-List/cpp/06-Implement-Stack-in-LinkedList/))|[无代码]|
 | 7-7 带有尾指针的链表：使用链表实现队列|[C++](07-Linkded-List/cpp/07-Implement-Queue-in-LinkedList/)|[无代码]|
 | 7-8 链表的性能问题|[C++](07-Linkded-List/cpp/08-LinkedList-Performance/)|[无代码]|
+| **第八章 透过链表看递归** | [章节C++源码](08-Recursion/cpp/01-Linked-List-Problems/)|
+| 8-1 Leetcode中和链表相关的问题|[C++](/08-Recursion/cpp/01-Linked-List-Problems-in-Leetcode/)|[无代码]|
+| 8-2 测试自己的Leetcode链表代码|[C++](/08-Recursion/cpp/02-Test-Your-LinkedList-Solution/)|[无代码]|
+| 8-3 递归基础与递归的宏观语意|[C++](/08-Recursion/cpp/03-Recursion-Basics/)|[无代码]|
+| 8-4 链表与递归|[C++](/08-Recursion/cpp/04-LinkedList-and-Recursion/)|[无代码]|
+| 8-5 递归的运行机制：递归的微观解读|[无代码]|[无代码]|
+| 8-6 递归算法的调试|[C++](/08-Recursion/cpp/06-Debug-Recursive-Solution/)|[无代码]|
+| 8-7 作业：链表的递归实现|[无代码]|[无代码]|
+| 8-8 作业解析：链表的递归实现|[C++](/08-Recursion/cpp/08-Recursive-LinkedList/)|[无代码]|
+| 8-9 链表添加元素递归方法的常见问题解析|[无代码]|[无代码]|
+| 8-10 更多和链表相关的话题|[无代码]|[无代码]|
+| 8-11 斯坦福大学推荐的18个链表相关问题|[pdf](/08-Recursion/cpp/11-Stanford-LinkedList-Problems/)|[无代码]|
+| **第八章x 补充 链表相关习题** | [章节C++源码](08x-Recursion/cpp/)|
+| 8-1x 链表最经典的问题：翻转链表|[无代码]|[无代码]|
+| 8-2x 翻转链表的非递归实现|[C++](/08x-Linked-List/cpp/02-LC206-Reverse-Linked-List/)|[无代码]|
+| 8-3x 翻转链表的递归实现|[C++](/08x-Linked-List/cpp/03-LC206-Reverse-Linked-List/)|[无代码]|
+| 8-4x 更多链表问题推荐|[C++]|[无代码]|
 
 
 
