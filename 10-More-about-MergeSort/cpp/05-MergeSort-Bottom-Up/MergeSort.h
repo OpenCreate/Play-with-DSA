@@ -50,7 +50,7 @@ class MergeSort {
     //每轮循环为 arr[k] 赋值
     for (int k = l; k <= r; k++) {
       if (i > mid) {
-        arr[k] = temp[j];  // temp数组索引从0开始， arr数组索引从l开始
+        arr[k] = temp[j];  // temp数组索引从l开始， arr数组索引从l开始
         j++;
       } else if (j > r) {
         arr[k] = temp[i];
