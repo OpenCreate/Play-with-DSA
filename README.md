@@ -99,11 +99,32 @@
 | 8-9 链表添加元素递归方法的常见问题解析|[无代码]|[无代码]|
 | 8-10 更多和链表相关的话题|[无代码]|[无代码]|
 | 8-11 斯坦福大学推荐的18个链表相关问题|[pdf](/08-Recursion/cpp/11-Stanford-LinkedList-Problems/)|[无代码]|
-| **第八章x 补充 链表相关习题** | [章节C++源码](08x-Recursion/cpp/)|
+| **第八章x 补充 链表相关习题** | [章节C++源码](08x-Linked-List/cpp)|
 | 8-1x 链表最经典的问题：翻转链表|[无代码]|[无代码]|
 | 8-2x 翻转链表的非递归实现|[C++](/08x-Linked-List/cpp/02-LC206-Reverse-Linked-List/)|[无代码]|
 | 8-3x 翻转链表的递归实现|[C++](/08x-Linked-List/cpp/03-LC206-Reverse-Linked-List/)|[无代码]|
 | 8-4x 更多链表问题推荐|[C++]|[无代码]|
+| **第九章 归并排序法** | [章节C++源码](/09-MergeSort/cpp/)|
+| 9-1 归并排序算的原理|[无代码]|[无代码]|
+| 9-2 归并过程|[C++]()|[无代码]|
+| 9-3 实现归并过程|[C++](/09-MergeSort/cpp/03-Merge/)|[无代码]|
+| 9-4 实现归并排序法|[C++](/09-MergeSort/cpp/04-MergeSort/)|[无代码]|
+| 9-5 归并排序法的微观解读|[无代码]|[无代码]|
+| 9-6 作业：在程序上调试跟踪归并排序法|[无代码]|[无代码]|
+| 9-7 在程序上调试跟踪归并排序法|[C++](/09-MergeSort/cpp/07-MergeSort-Track/)|[无代码]|
+| 9-8 归并排序法的复杂度分析|[无代码]|[无代码]|
+| **第十章 更多关于归并排序法** | [章节C++源码](10-More-about-MergeSort/cpp/)|
+| 10-1 在有序数组，让归并排序法成为O(n)算法|[C++](/10-More-about-MergeSort/cpp/01-MergeSort-Basic-Optimization/)|[无代码]|
+| 10-2 使用插入排序优化归并排序法|[C++](/10-More-about-MergeSort/cpp/02-MergeSort-Optimized-by-InsertionSort/)|[无代码]|
+| 10-3 归并排序法的内存优化|[C++](/10-More-about-MergeSort/cpp/03-MergeSort-Advanced-Optimization/)|[无代码]|
+| 10-4 自底向上的归并排序|[无代码]|[无代码]|
+| 10-5 实现自底向上的归并排序|[C++](/10-More-about-MergeSort/cpp/05-MergeSort-Bottom-Up/)|[无代码]|
+| 10-6 作业：使用插入排序法优化自底向上的归并排序|[无代码]|[无代码]|
+| 10-7 使用插入排序法优化自底向上的归并排序|[C++](/10-More-about-MergeSort/cpp/07-MergeSort-Bottom-Up-Optimized-by-InsertionSort/)|[无代码]|
+| 10-8 数组的逆序对数量问题|[C++](/10-More-about-MergeSort/cpp/08-Reverse-Pairs/)|[无代码]|
+| 10-9 快速求解数组的逆序对数量|[C++](/10-More-about-MergeSort/cpp/09-Solving-Reverse-Pairs-Problem-by-MergeSort/)|[无代码]|
+| 10-10 归并排序法小结|[无代码]|[无代码]|
+
 
 
 
