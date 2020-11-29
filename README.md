@@ -124,9 +124,15 @@
 | 10-8 数组的逆序对数量问题|[C++](/10-More-about-MergeSort/cpp/08-Reverse-Pairs/)|[无代码]|
 | 10-9 快速求解数组的逆序对数量|[C++](/10-More-about-MergeSort/cpp/09-Solving-Reverse-Pairs-Problem-by-MergeSort/)|[无代码]|
 | 10-10 归并排序法小结|[无代码]|[无代码]|
-
-
-
-
-
+| **第11章 快速排序法** | [章节C++源码](/11-QuickSort/cpp/)|
+| 11-1 快速排序法的原理|[无代码]|[无代码]|
+| 11-2 Partition|[无代码]|[无代码]|
+| 11-3 第一版快速排序法|[C++](/11-QuickSort/cpp/03-QuickSort/)|[无代码]|
+| 11-4 深入理解快速排序的递归过程|[无代码]|[无代码]|
+| 11-5 作业解析：使用插入排序法优化快速排序|[C++](//11-QuickSort/cpp/05-QuickSort-Optimized-by-Insertion-Sort/)|[无代码]|
+| 11-6 第一版快速排序法的问题|[无代码]|[无代码]|
+| 11-7 为快速排序添加随机化|[C++](/11-QuickSort/cpp/07-QuickSort-Optimized-by-Random/)|[无代码]|
+| 11-8 两个作业：深入玩转快速排序|[无代码]|[无代码]|
+| 11-9 作业解析：只创建一个Random类|[无代码]|[无代码]|
+| 11-10 作业解析：用算法生成一个特殊的测试用例|[C++](/11-QuickSort/cpp/10-Generate-Special-Array/)|[无代码]|
 
