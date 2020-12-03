@@ -135,4 +135,16 @@
 | 11-8 两个作业：深入玩转快速排序|[无代码]|[无代码]|
 | 11-9 作业解析：只创建一个Random类|[无代码]|[无代码]|
 | 11-10 作业解析：用算法生成一个特殊的测试用例|[C++](/11-QuickSort/cpp/10-Generate-Special-Array/)|[无代码]|
+| **第12章 更多关于快速排序法** | [章节C++源码](/12-More-about-QuickSort/cpp/)|
+| 12-1 快速排序算法还有问题|[C++](/12-More-about-QuickSort/cpp/01-Problem-in-All-Same-Array/)|[无代码]|
+| 12-2 双路快速排序法|[无代码]|[无代码]|
+| 12-3 实现双路快速排序法|[C++](/12-More-about-QuickSort/cpp/03-QuickSort-2-Ways/)|[无代码]|
+| 12-4 快速排序算法的复杂度分析|[无代码]|[无代码]|
+| 12-5 三路快速排序法|[无代码++]|[无代码]|
+| 12-6 实现三路快速排序法|[C++](/12-More-about-QuickSort/cpp/06-QuickSort-3-Ways/)|[无代码]|
+| 12-7 作业：一道面试问题，Sort Colors|[无代码]|[无代码]|
+| 12-8 Leetcode 75:Sort Colors|[无代码](/12-More-about-QuickSort/cpp/08-Sort-Colors/)|[无代码]|
+| 12-9 作业：Select K问题|[无代码]|[无代码]|
+| 12-10 和Select K相关的三个问题|[C++](/12-More-about-QuickSort/cpp/10-Select-K/)|[无代码]|
+| 12-11 快速排序小结|[无代码]|[无代码]|
 
