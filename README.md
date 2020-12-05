@@ -140,11 +140,41 @@
 | 12-2 双路快速排序法|[无代码]|[无代码]|
 | 12-3 实现双路快速排序法|[C++](/12-More-about-QuickSort/cpp/03-QuickSort-2-Ways/)|[无代码]|
 | 12-4 快速排序算法的复杂度分析|[无代码]|[无代码]|
-| 12-5 三路快速排序法|[无代码++]|[无代码]|
+| 12-5 三路快速排序法|[无代码]|[无代码]|
 | 12-6 实现三路快速排序法|[C++](/12-More-about-QuickSort/cpp/06-QuickSort-3-Ways/)|[无代码]|
 | 12-7 作业：一道面试问题，Sort Colors|[无代码]|[无代码]|
-| 12-8 Leetcode 75:Sort Colors|[无代码](/12-More-about-QuickSort/cpp/08-Sort-Colors/)|[无代码]|
+| 12-8 Leetcode 75:Sort Colors|[C++](/12-More-about-QuickSort/cpp/08-Sort-Colors/)|[无代码]|
 | 12-9 作业：Select K问题|[无代码]|[无代码]|
 | 12-10 和Select K相关的三个问题|[C++](/12-More-about-QuickSort/cpp/10-Select-K/)|[无代码]|
 | 12-11 快速排序小结|[无代码]|[无代码]|
+| **第13章 二分查找法** | [章节C++源码](/13-Binary-Search/cpp/)|
+| 13-1 二分查找发法|[无代码]|[无代码]|
+| 13-2 二分查找发法的递归写法|[C++](/13-Binary-Search/cpp/02-Recursive-Binary-Search/)|[无代码]|
+| 13-3 二分查找发法的非递归写法|[C++](/13-Binary-Search/cpp/03-Binary-Search/)|[无代码]|
+| 13-4 作业：Select K的非递归写法|[无代码]|[无代码]|
+| 13-5 非递归实现Select K算法|[C++](/13-Binary-Search/cpp/05-Select-K-Non-Recursive/)|[无代码]|
+| 13-6 换个定义实现二分查找法|[C++](/13-Binary-Search/cpp/06-Another-Binary-Search/)|[无代码]|
+| 13-7 作业：一换个定义实现算法|[无代码]|[无代码]|
+| 13-8 改变定义重写Select K算法|[C++](/13-Binary-Search/cpp/08-Another-Select-K/)|[无代码]|
+| 13-9 改变定义重写归并排序算法|[C++](/13-Binary-Search/cpp/09-Another-MergeSort/)|[无代码]|
+| **第14章 二分查找法的变种** | [章节C++源码](/14-More-about-Binary-Search/cpp/)|
+| 14-1 二分查找法的变种：upper|[无代码]|[无代码]|
+| 14-2 实现upper|[C++](/14-More-about-Binary-Search/cpp/02-Upper/)|[无代码]|
+| 14-3 二分查找法的变种：ceil|[C++](/14-More-about-Binary-Search/cpp/03-Ceil/)|[无代码]|
+| 14-4 作业：二分查找法的变种：low_ceil|[无代码]|[无代码]|
+| 14-5 作业解析：实现low_ceil|[C++](/14-More-about-Binary-Search/cpp/05-Lower-Ceil/)|[无代码]|
+| 14-6 二分查找法的变种：lower|[无代码]|[无代码]|
+| 14-7 实现lower和二分查找的大坑|[C++](/14-More-about-Binary-Search/cpp/07-Lower/)|[无代码]|
+| 14-8 作业：二分查找法的变种：lower_floor和upper_floor|[C++]()|[无代码]|
+| 14-9 作业解析：实现lower_floor和upper_floor|[C++](/14-More-about-Binary-Search/cpp/09-Lower-Floor-and-Upper-Floor/)|[无代码]|
+| 14-10 二分查找法总结：二分查找模板|[无代码]|[无代码]|
+| 14-11 作业解析：换个方式实现二分查找|[C++](/14-More-about-Binary-Search/cpp/11-Another-Binary-Search/)|[无代码]|
+| **第14x章 补充：二分查找相关习题** | [章节C++源码](/14x-Binary-Search/cpp/)|
+| 14x-1 Leetcode 875|[无代码]|[无代码]|
+| 14x-2 编程实现Leetcode 875|[C++](/14x-Binary-Search/cpp/02-LC875/)|[无代码]|
+| 14x-3 作业：Leetcode 1011|[无代码]|[无代码]|
+| 14x-4 解决Leetcode 1011|[C++](/14x-Binary-Search/cpp/04-LC1011/)|[无代码]|
+| 14x-5 更多二分查找相关问题|[无代码]|[无代码]|
+
+
 
