@@ -175,6 +175,23 @@
 | 14x-3 作业：Leetcode 1011|[无代码]|[无代码]|
 | 14x-4 解决Leetcode 1011|[C++](/14x-Binary-Search/cpp/04-LC1011/)|[无代码]|
 | 14x-5 更多二分查找相关问题|[无代码]|[无代码]|
+| **第15章 补充：二分查找相关习题** | [章节C++源码](/15-Binary-Search-Tree/cpp/)|
+| 15-1 为什么要研究树结构|[无代码]|[无代码]|
+| 15-2 二分搜索树基础|[C++](/15-Binary-Search-Tree/cpp/02-Binary-Search-Tree-Basics/)|[无代码]|
+| 15-3 向二分搜索树中添加元素|[C++](/15-Binary-Search-Tree/cpp/03-Add-Elements-in-BST/)|[无代码]|
+| 15-4 改进添加操作：深入理解递归终止条件|[C++](/15-Binary-Search-Tree/cpp/04-Improved-Add-Elements-in-BST/)|[无代码]|
+| 15-5 作业：和二分搜索树的添加相关的两个问题|[无代码]|[无代码]|
+| 15-6 作业解析：和二分搜索树的添加相关的两个问题|[C++](/15-Binary-Search-Tree/cpp/06-Add-Elements-in-BST-Nonrecursive/)|[无代码]|
+| 15-7 二分搜索树的查询操作|[C++](/15-Binary-Search-Tree/cpp/07-Search-in-BST/)]|[无代码]|
+| 15-8 二分搜索树的前序遍历|[C++](/15-Binary-Search-Tree/cpp/08-PreOrder-Traverse-in-BST/)|[无代码]|
+| 15-9 二分搜索树的中序遍历和后序遍历|[C++](/15-Binary-Search-Tree/cpp/09-InOrder-and-PostOrder-Traverse-in-BST/)|[无代码]|
+| 15-10 深入理解二分搜索树的前中后序遍历|[无代码]|[无代码]|
+| 15-11 二分搜索树前序遍历的非递归实现|[C++](/15-Binary-Search-Tree/cpp/11-Non-Recursion-Preorder-Traverse-in-BST/)|[无代码]|
+| 15-12 二分搜索树的层序遍历|[C++](/15-Binary-Search-Tree/cpp/12-Level-Traverse-in-BST/BST.h)|[无代码]|
+| 15-13 删除二分搜索树的最大元素和最小元素|[C++](/15-Binary-Search-Tree/cpp/13-Remove-Min-and-Max-in-BST/)|[无代码]|
+| 15-14 删除二分搜索树的任意元素|[C++](/15-Binary-Search-Tree/cpp/14-Remove-Elements-in-BST/)|[无代码]|
+| 15-15 更多二分搜索树相关话题|[无代码]|[无代码]|
+
 
 
 
