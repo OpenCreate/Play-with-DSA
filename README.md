@@ -175,7 +175,7 @@
 | 14x-3 作业：Leetcode 1011|[无代码]|[无代码]|
 | 14x-4 解决Leetcode 1011|[C++](/14x-Binary-Search/cpp/04-LC1011/)|[无代码]|
 | 14x-5 更多二分查找相关问题|[无代码]|[无代码]|
-| **第15章 补充：二分查找相关习题** | [章节C++源码](/15-Binary-Search-Tree/cpp/)|
+| **第15章 二分搜索树** | [章节C++源码](/15-Binary-Search-Tree/cpp/)|
 | 15-1 为什么要研究树结构|[无代码]|[无代码]|
 | 15-2 二分搜索树基础|[C++](/15-Binary-Search-Tree/cpp/02-Binary-Search-Tree-Basics/)|[无代码]|
 | 15-3 向二分搜索树中添加元素|[C++](/15-Binary-Search-Tree/cpp/03-Add-Elements-in-BST/)|[无代码]|
@@ -191,6 +191,16 @@
 | 15-13 删除二分搜索树的最大元素和最小元素|[C++](/15-Binary-Search-Tree/cpp/13-Remove-Min-and-Max-in-BST/)|[无代码]|
 | 15-14 删除二分搜索树的任意元素|[C++](/15-Binary-Search-Tree/cpp/14-Remove-Elements-in-BST/)|[无代码]|
 | 15-15 更多二分搜索树相关话题|[无代码]|[无代码]|
+| **第16章 集合和映射** | [章节C++源码](/16-Set-and-Map/cpp/)|
+| 16-1 集合基础和基于二分搜索树的集合实现|[C++](/16-Set-and-Map/cpp/01-Set-Basics-and-BSTSet/)|[无代码]|
+| 16-2 基于链表的集合实现|[C++](/16-Set-and-Map/cpp/02-LinkedListSet/)|[无代码]|
+| 16-3 集合类的复杂度分析|[无代码]|[无代码]|
+| 16-4 Leetcode中集合问题和更多关于集合问题|[C++](/16-Set-and-Map/cpp/04-TreeSet-and-Set-Problems-in-Leetcode/)|[无代码]|
+| 16-5 映射基础|[无代码]|[无代码]|
+| 16-6 基于链表的映射实现|[C++](/16-Set-and-Map/cpp/06-LinkedListMap/)|[无代码]|
+| 16-7 基于二分搜索树的映射实现|[C++](/16-Set-and-Map/cpp/07-BSTMap/)]|[无代码]|
+| 16-8 映射的复杂度分析和更多关于映射的问题|[C++](/16-Set-and-Map/cpp/08-More-about-Map/)|[无代码]|
+| 16-9 Leetcode上更多集合和映射的问题|[C++](/16-Set-and-Map/cpp/09-Leetcode-Problems-about-Map-and-Set/)|[无代码]|
 
 
 
