@@ -201,7 +201,17 @@
 | 16-7 基于二分搜索树的映射实现|[C++](/16-Set-and-Map/cpp/07-BSTMap/)]|[无代码]|
 | 16-8 映射的复杂度分析和更多关于映射的问题|[C++](/16-Set-and-Map/cpp/08-More-about-Map/)|[无代码]|
 | 16-9 Leetcode上更多集合和映射的问题|[C++](/16-Set-and-Map/cpp/09-Leetcode-Problems-about-Map-and-Set/)|[无代码]|
-
+| **第17章 最大堆、最小堆** | [章节C++源码](/17-Heap/cpp/)|
+| 17-1 什么是优先队列|[无代码]|[无代码]|
+| 17-2 堆的基础表示|[C++](/17-Heap/cpp/02-Heap-Basics/)|[无代码]|
+| 17-3 向堆中添加元素和Sift Up|[C++](/17-Heap/cpp/03-Add-and-Sift-Up-in-Heap/)|[无代码]|
+| 17-4 从堆中取出元素和Sift Down|[C++](/17-Heap/cpp/04-Extract-and-Sift-Down-in-Heap/)|[无代码]|
+| 17-5 最直观的堆排序|[C++](/17-Heap/cpp/05-Heap-Sort-Basics/)|[无代码]|
+| 17-6 Heapify和Replace|[C++](/17-Heap/cpp/06-Replace-in-Heap/)|[无代码]|
+| 17-7 实现Heapify|[C++](/17-Heap/cpp/07-Heapify-in-Heap/)]|[无代码]|
+| 17-8 优化的堆排序|[C++](/17-Heap/cpp/08-Heap-Sort/|[无代码]|
+| 17-9 作业：最小堆|[无代码]|[无代码]|
+| 17-10 实现最小堆|[C++](/17-Heap/cpp/10-Min-Heap/)|[无代码]|
 
 
 
